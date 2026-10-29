@@ -16,7 +16,20 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 ---
 
+## ⚡ Neutralized Infrastructure (Batch #02)
+
+| Entity Name | Target Domain | Threat Vector | Status |
+| :--- | :--- | :--- | :--- |
+| ZX17 | `zx17.xyz` | Financial Fraud / HYIP | Suspended |
+| Fintryvest | `fintryvest.com` | Phishing Infrastructure | Suspended |
+| Atlas System | `atlas-system.tech` | Deceptive Investment Rail | ClientHold |
+| Dawphexx | `dawphexx.com` | Fraudulent Web3 Platform | Terminated |
+| Axiora Protocol | `axioraprotocol.com` | Unauthorized Asset Platform | Suspended |
+
+---
+
 ### 🛡️ Official Verification & Support
+
 Cold Reckoning operates strictly within cyber threat intelligence, abuse policy enforcement, and anti-fraud investigation.
 
 * **Telegram:** `@ColdReckoningSupport`
