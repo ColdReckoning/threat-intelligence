@@ -28,6 +28,18 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 ---
 
+## ⚡ Neutralized Infrastructure (Batch #03)
+
+| Entity Name | Target Domain | Threat Vector | Status |
+| :--- | :--- | :--- | :--- |
+| Barkston | `barkston.live` | Financial Fraud / Phishing | Suspended |
+| Winvest | `winvest.net` | Phishing Infrastructure | Suspended |
+| GCG Finance | `gcg-finance.tech` | Deceptive Investment Rail | ClientHold |
+| Catrise | `catrise.tech` | Fraudulent Web3 Platform | Suspended |
+| F1 Core | `f1-core.com` | Unauthorized Asset Platform | Suspended |
+
+---
+
 ### 🛡️ Official Verification & Support
 
 Cold Reckoning operates strictly within cyber threat intelligence, abuse policy enforcement, and anti-fraud investigation.
