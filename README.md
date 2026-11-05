@@ -8,11 +8,11 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 | Entity Name | Target Domain | Threat Vector | Status |
 | :--- | :--- | :--- | :--- |
-| RichKey6 | `richkey6.com` | Financial Fraud | Suspended |
-| OnyxOpthoin | `onyxopthoin.com` | Phishing Clone | Suspended |
-| OnyxOption | `onyxoption.com` | Impersonation | ClientHold |
-| ProCash | `procash.cc` | Investment Scam | Suspended |
-| Creselfund Limited | `creselfundlimited.com` | Fraudulent Rail | Suspended |
+| RichKey6 | `richkey6.com` | Phishing & Financial Fraud | Suspended |
+| OnyxOpthoin | `onyxopthoin.com` | Phishing & Financial Fraud | Suspended |
+| OnyxOption | `onyxoption.com` | Phishing & Financial Fraud | Suspended |
+| ProCash | `procash.cc` | Phishing & Financial Fraud | Suspended |
+| Creselfund Limited | `creselfundlimited.com` | Phishing & Financial Fraud | Suspended |
 
 ---
 
@@ -20,11 +20,11 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 | Entity Name | Target Domain | Threat Vector | Status |
 | :--- | :--- | :--- | :--- |
-| ZX17 | `zx17.xyz` | Financial Fraud / HYIP | Suspended |
-| Fintryvest | `fintryvest.com` | Phishing Infrastructure | Suspended |
-| Atlas System | `atlas-system.tech` | Deceptive Investment Rail | ClientHold |
-| Dawphexx | `dawphexx.com` | Fraudulent Web3 Platform | Terminated |
-| Axiora Protocol | `axioraprotocol.com` | Unauthorized Asset Platform | Suspended |
+| ZX17 | `zx17.xyz` | Phishing & Financial Fraud | Suspended |
+| Fintryvest | `fintryvest.com` | Phishing & Financial Fraud | Suspended |
+| Atlas System | `atlas-system.tech` | Phishing & Financial Fraud | Suspended |
+| Dawphexx | `dawphexx.com` | Phishing & Financial Fraud | Suspended |
+| Axiora Protocol | `axioraprotocol.com` | Phishing & Financial Fraud | Suspended |
 
 ---
 
@@ -32,11 +32,11 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 | Entity Name | Target Domain | Threat Vector | Status |
 | :--- | :--- | :--- | :--- |
-| Barkston | `barkston.live` | Financial Fraud / Phishing | Suspended |
-| Winvest | `winvest.net` | Phishing Infrastructure | Suspended |
-| GCG Finance | `gcg-finance.tech` | Deceptive Investment Rail | ClientHold |
-| Catrise | `catrise.tech` | Fraudulent Web3 Platform | Suspended |
-| F1 Core | `f1-core.com` | Unauthorized Asset Platform | Suspended |
+| Barkston | `barkston.live` | Phishing & Financial Fraud | Suspended |
+| Winvest | `winvest.net` | Phishing & Financial Fraud | Suspended |
+| GCG Finance | `gcg-finance.tech` | Phishing & Financial Fraud | Suspended |
+| Catrise | `catrise.tech` | Phishing & Financial Fraud | Suspended |
+| F1 Core | `f1-core.com` | Phishing & Financial Fraud | Suspended |
 
 ---
 
@@ -44,12 +44,12 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 | Entity Name | Target Domain | Threat Vector | Status |
 | :--- | :--- | :--- | :--- |
-| Marsses | `marsses.com` | Financial Fraud / Phishing | Suspended |
-| Marsses | `marsses.net` | Phishing Infrastructure | Suspended |
-| Marsses | `marsses.top` | Deceptive Investment Rail | Suspended |
-| Marsses | `marsses.one` | Phishing Infrastructure | Suspended |
-| Marsses | `marsses.me` | Fraudulent Platform | Suspended |
-| Marsses | `marsses.is` | Phishing Infrastructure | Suspended |
+| Marsses | `marsses.com` | Phishing & Financial Fraud | Suspended |
+| Marsses | `marsses.net` | Phishing & Financial Fraud | Suspended |
+| Marsses | `marsses.top` | Phishing & Financial Fraud | Suspended |
+| Marsses | `marsses.one` | Phishing & Financial Fraud | Suspended |
+| Marsses | `marsses.me` | Phishing & Financial Fraud | Suspended |
+| Marsses | `marsses.is` | Phishing & Financial Fraud | Suspended |
 
 ---
 
