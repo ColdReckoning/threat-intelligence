@@ -40,6 +40,19 @@ Official blacklist registry and infrastructure enforcement log maintained by Col
 
 ---
 
+## ⚡ Neutralized Infrastructure (Batch #04)
+
+| Entity Name | Target Domain | Threat Vector | Status |
+| :--- | :--- | :--- | :--- |
+| Marsses | `marsses.com` | Financial Fraud / Phishing | Suspended |
+| Marsses | `marsses.net` | Phishing Infrastructure | Suspended |
+| Marsses | `marsses.top` | Deceptive Investment Rail | Suspended |
+| Marsses | `marsses.one` | Phishing Infrastructure | Suspended |
+| Marsses | `marsses.me` | Fraudulent Platform | Suspended |
+| Marsses | `marsses.is` | Phishing Infrastructure | Suspended |
+
+---
+
 ### 🛡️ Official Verification & Support
 
 Cold Reckoning operates strictly within cyber threat intelligence, abuse policy enforcement, and anti-fraud investigation.
